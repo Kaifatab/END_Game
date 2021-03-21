@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+
+<AnchorPane maxHeight="750.0" maxWidth="1300.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="750.0" prefWidth="1300.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="880.0" layoutY="327.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="532.0" layoutY="375.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="715.0" layoutY="129.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="769.0" layoutY="558.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="715.0" layoutY="327.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="1101.0" layoutY="500.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="869.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="650.0" layoutY="181.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="1101.0" layoutY="162.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="1042.0" layoutY="646.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="1042.0" layoutY="112.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="404.0" layoutY="146.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="112.0" layoutY="400.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="945.0" layoutY="475.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="945.0" layoutY="277.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="242.0" layoutY="598.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="828.0" layoutY="607.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="591.0" layoutY="327.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="53.0" layoutY="154.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="710.0" layoutY="508.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="128.0" fitWidth="58.0" layoutX="346.0" layoutY="196.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="301.0" layoutY="548.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="112.0" layoutY="204.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="463.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="359.0" layoutY="402.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="559.0" layoutY="607.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="171.0" layoutY="254.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="38.0" layoutY="608.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="65.0" layoutX="223.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20bricks.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="103.0" layoutY="558.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutX="503.0" layoutY="558.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="65.0" layoutY="104.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@red%20stack.png" />
+         </image>
+      </ImageView>
+      <Line endX="65.0" endY="46.28570556640625" layoutX="760.0" layoutY="179.0" startX="65.0" startY="336.28570556640625" />
+      <Line endX="112.0" endY="13.78570556640625" layoutX="945.0" layoutY="211.0" startX="-119.5" startY="13.78570556640625" />
+      <Line endX="-28.5" endY="156.28570556640625" layoutX="1086.0" layoutY="437.0" startX="-28.5" startY="-212.71429443359375" />
+      <Line endX="139.0" endY="243.28570556640625" layoutX="528.0" layoutY="499.0" startX="139.0" startY="-6.71429443359375" />
+      <Line endX="34.5" endY="-0.21429443359375" layoutX="633.0" layoutY="492.0" startX="-167.0" />
+      <Line endX="-37.70709228515625" endY="203.07861328125" layoutX="503.0" layoutY="288.0" startX="-37.70709228515625" startY="-47.71429443359375" />
+      <Line endX="36.0" endY="10.78570556640625" layoutX="561.0" layoutY="229.0" startX="-95.20709228515625" startY="10.78570556640625" />
+      <Line endX="-146.5" endY="-0.71429443359375" layoutX="744.0" layoutY="61.0" startX="-146.5" startY="179.28570556640625" />
+      <Line endX="-54.0" endY="147.28570556640625" layoutX="103.0" layoutY="352.0" startX="-54.0" startY="-113.71429443359375" />
+      <Line endX="50.0" layoutX="149.0" layoutY="500.0" startX="-100.0" />
+      <Line endX="-2.0" endY="111.28570556640625" layoutX="205.0" layoutY="613.0" startX="-5.5" startY="-112.5" />
+      <Line endX="203.0" layoutX="301.0" layoutY="725.0" startX="-100.0" />
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="418.0" layoutY="97.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Timestone.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="126.0" layoutY="293.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Timestone.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="959.0" layoutY="370.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Timestone.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="724.0" layoutY="597.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Timestone.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="544.0" layoutY="327.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Timestone.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="117.0" layoutY="633.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Timestone.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="48.0" layoutX="691.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@life1.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="48.0" layoutX="950.0" layoutY="681.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@life1.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="48.0" layoutX="300.0" layoutY="451.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@life1.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
